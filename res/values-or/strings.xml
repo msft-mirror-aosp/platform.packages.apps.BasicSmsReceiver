@@ -16,7 +16,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="sms_app_name" msgid="3641211328012514267">"సాధారణ సందేశ స్వీకర్త"</string>
-    <string name="sms_message_from_format" msgid="7163240046237558485">"<xliff:g id="USERNAME">%1$s</xliff:g> నుండి మెసేజ్‌"</string>
-    <string name="sms_done_button" msgid="4063239029747798890">"పూర్తయింది"</string>
+    <string name="sms_app_name" msgid="3641211328012514267">"ସିମ୍ପଲ ମେସେଜ ରିସିଭର"</string>
+    <string name="sms_message_from_format" msgid="7163240046237558485">"<xliff:g id="USERNAME">%1$s</xliff:g>ଙ୍କଠାରୁ ମେସେଜ"</string>
+    <string name="sms_done_button" msgid="4063239029747798890">"ହୋଇଗଲା"</string>
 </resources>
